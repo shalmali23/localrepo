@@ -1,1 +1,2 @@
 "it is in the localrepo"
+"this is a new feature"
